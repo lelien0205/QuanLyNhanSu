@@ -1,0 +1,59 @@
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\bin\Debug\NTGiangDQHuanLTPLien_LTNET.exe.config
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\bin\Debug\NTGiangDQHuanLTPLien_LTNET.exe
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\bin\Debug\NTGiangDQHuanLTPLien_LTNET.pdb
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.csproj.AssemblyReference.cache
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.DangNhap.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.Properties.Resources.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.csproj.GenerateResource.cache
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.csproj.CoreCompileInputs.cache
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.exe
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.pdb
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLy.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.HoSoNhanVien.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.DoiMatKhau.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.BangChamCong.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.BangLuong.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLyChamCong.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLyChucVu.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLyNhanVien.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLyPhong.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLyTienLuong.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ChinhSuaPhong.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ChinhSuaChucVu.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ChinhSuaNhanVien.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ThemNhanVien.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ChinhSuaChamCong.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ThongTinChamCong.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.csproj.ResolveComReference.cache
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ThongKeNhanVien.resources
+E:\Documents\Code\CSharp\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.BaoCaoThongKe.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\bin\Debug\NTGiangDQHuanLTPLien_LTNET.exe.config
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\bin\Debug\NTGiangDQHuanLTPLien_LTNET.exe
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\bin\Debug\NTGiangDQHuanLTPLien_LTNET.pdb
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.csproj.AssemblyReference.cache
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.csproj.SuggestedBindingRedirects.cache
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.csproj.ResolveComReference.cache
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.BangChamCong.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.BangLuong.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.BaoCaoThongKe.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ThongKeNhanVien.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ChinhSuaChucVu.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ChinhSuaNhanVien.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ChinhSuaPhong.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.DangNhap.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.DoiMatKhau.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.HoSoNhanVien.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.Properties.Resources.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLy.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLyChamCong.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLyChucVu.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLyNhanVien.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLyPhong.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.QuanLyTienLuong.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ThemNhanVien.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ChinhSuaChamCong.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.ThongTinChamCong.resources
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.csproj.GenerateResource.cache
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.csproj.CoreCompileInputs.cache
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.exe
+D:\thực hành .NET\NTGiangDQHuanLTPLien_LTNET\obj\Debug\NTGiangDQHuanLTPLien_LTNET.pdb
